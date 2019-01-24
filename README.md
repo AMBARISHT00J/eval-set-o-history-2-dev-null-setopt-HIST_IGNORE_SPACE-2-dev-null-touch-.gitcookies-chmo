@@ -1,0 +1,1 @@
+# eval-set-o-history-2-dev-null-setopt-HIST_IGNORE_SPACE-2-dev-null-touch-.gitcookies-chmo
